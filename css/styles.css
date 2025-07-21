@@ -10,10 +10,17 @@ header {
   object-fit: cover;
 }
 
-.cork {
+main {
+  background-image: url(../img/cork.png);
   width: 100%;
 }
 
 h1 {
   font-family: sans-serif;
+}
+
+.bg-pink {
+  background-color: pink;
+  height: 400px;
+
 }
