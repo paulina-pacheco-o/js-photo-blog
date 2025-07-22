@@ -19,16 +19,12 @@ main {
   height: 0 auto;
 }
 
-/**.row {
+.row {
   gap: 10px;
-}**/
-
-.bg-pink {
-  background-color: pink;
 }
 
-.border-black {
-  border: 1px solid black;
+.bg-white {
+  background-color: white;
 }
 
 .sardegna {
