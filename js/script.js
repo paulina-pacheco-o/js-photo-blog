@@ -12,7 +12,19 @@ for (let i = 0; i < 6; i++) {
             ${response.data}
           </div>
         </div>`
+    console.log(response.data)
   })
   cards.innerHTML
 }
 
+/**
+ * const overlay = document.getElementById(`overlay`);
+ * 
+ * const cardImg = document.querySelectorAll(".img");
+ *  
+ * 
+ * 
+ * cards.addEventListener(`click`, () => {
+ * console.log(overlay)
+ * })
+ */
